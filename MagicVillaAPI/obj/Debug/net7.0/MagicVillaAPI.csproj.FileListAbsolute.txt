@@ -1,0 +1,273 @@
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/appsettings.Development.json
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/appsettings.json
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/MagicVillaAPI.exe
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/MagicVillaAPI.deps.json
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/MagicVillaAPI.runtimeconfig.json
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/MagicVillaAPI.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/MagicVillaAPI.pdb
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.csproj.AssemblyReference.cache
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.AssemblyInfoInputs.cache
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.AssemblyInfo.cs
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.csproj.CoreCompileInputs.cache
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.MvcApplicationPartsAssemblyInfo.cs
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.MvcApplicationPartsAssemblyInfo.cache
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/staticwebassets/msbuild.MagicVillaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.MagicVillaAPI.props
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MagicVillaAPI.props
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MagicVillaAPI.props
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/staticwebassets.pack.json
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/staticwebassets.build.json
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/staticwebassets.development.json
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/scopedcss/bundle/MagicVillaAPI.styles.css
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.csproj.CopyComplete
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/refint/MagicVillaAPI.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.pdb
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.genruntimeconfig.cache
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/ref/MagicVillaAPI.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.AspNetCore.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.Formatting.Compact.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.Settings.Configuration.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.Sinks.Console.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.Sinks.File.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Azure.Core.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Azure.Identity.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Humanizer.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Mono.TextTemplating.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.CodeDom.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.Drawing.Common.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.Memory.Data.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.Runtime.Caching.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.Security.Permissions.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.Windows.Extensions.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/AutoMapper.dll
+D:/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/appsettings.Development.json
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/appsettings.json
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/MagicVillaAPI
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/MagicVillaAPI.deps.json
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/MagicVillaAPI.runtimeconfig.json
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/MagicVillaAPI.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/MagicVillaAPI.pdb
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/AutoMapper.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Azure.Core.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Azure.Identity.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Humanizer.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Mono.TextTemplating.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.AspNetCore.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.Formatting.Compact.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.Settings.Configuration.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.Sinks.Console.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Serilog.Sinks.File.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.CodeDom.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.Drawing.Common.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.Memory.Data.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.Runtime.Caching.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.Security.Permissions.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/System.Windows.Extensions.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.csproj.AssemblyReference.cache
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.GeneratedMSBuildEditorConfig.editorconfig
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.AssemblyInfoInputs.cache
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.AssemblyInfo.cs
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.csproj.CoreCompileInputs.cache
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.MvcApplicationPartsAssemblyInfo.cs
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.MvcApplicationPartsAssemblyInfo.cache
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/staticwebassets/msbuild.MagicVillaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.MagicVillaAPI.props
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MagicVillaAPI.props
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MagicVillaAPI.props
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/staticwebassets.pack.json
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/staticwebassets.build.json
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/staticwebassets.development.json
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/scopedcss/bundle/MagicVillaAPI.styles.css
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.csproj.CopyComplete
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/refint/MagicVillaAPI.dll
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.pdb
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/MagicVillaAPI.genruntimeconfig.cache
+/media/raj/New Volume/Dot net trick/API/Projects/Magic Villa/MagicVillaAPI/obj/Debug/net7.0/ref/MagicVillaAPI.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\appsettings.json
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\MagicVillaAPI.exe
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\MagicVillaAPI.deps.json
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\MagicVillaAPI.runtimeconfig.json
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\MagicVillaAPI.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\MagicVillaAPI.pdb
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\AutoMapper.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Humanizer.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Serilog.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\MagicVillaAPI.csproj.AssemblyReference.cache
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\MagicVillaAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\MagicVillaAPI.AssemblyInfoInputs.cache
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\MagicVillaAPI.AssemblyInfo.cs
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\MagicVillaAPI.csproj.CoreCompileInputs.cache
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\MagicVillaAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\MagicVillaAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\staticwebassets\msbuild.MagicVillaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MagicVillaAPI.props
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MagicVillaAPI.props
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MagicVillaAPI.props
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\scopedcss\bundle\MagicVillaAPI.styles.css
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\MagicVillaAPI.csproj.CopyComplete
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\MagicVillaAPI.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\refint\MagicVillaAPI.dll
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\MagicVillaAPI.pdb
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\MagicVillaAPI.genruntimeconfig.cache
+D:\RAJ\DotNet\Project\Magic Villa\MagicVillaAPI\obj\Debug\net7.0\ref\MagicVillaAPI.dll
